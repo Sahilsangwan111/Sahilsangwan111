@@ -3,7 +3,7 @@
 ![Web Dev](https://img.shields.io/badge/Web%20Development-Frontend-orange)
 
 # 👋 Hi, I'm Sahil
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI%2FML+Student;Machine+Learning+Enthusiast;Web+Developer;Cybersecurity+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI%2FML+Student;Machine+Learning+Enthusiast;Web+Developer;Data+analysts)
 
 🎓 3rd Year CSE (AI/ML) Student
 💻 Passionate about Machine Learning & Web Development
@@ -49,7 +49,10 @@
 ## 📊 GitHub Stats
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilsangwan111&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilsangwan111&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sahilsangwan111&theme=tokyonight)
 
 ⭐ Always learning & building new things!
 
