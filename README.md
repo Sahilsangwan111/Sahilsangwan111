@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![Web Dev](https://img.shields.io/badge/Web%20Development-Frontend-orange)
 # 👋 Hi, I'm Sahil
 
 🎓 3rd Year CSE (AI/ML) Student
