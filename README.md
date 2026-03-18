@@ -44,11 +44,12 @@
 * Email: (sahilsangwan89305@gmail.com)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilsangwan111&show_icons=true&theme=tokyonight)
+
 
 ## 📊 GitHub Stats
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilsangwan111&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilsangwan111&layout=compact&theme=tokyonight)
 
 ⭐ Always learning & building new things!
 
