@@ -3,6 +3,7 @@
 ![Web Dev](https://img.shields.io/badge/Web%20Development-Frontend-orange)
 
 # 👋 Hi, I'm Sahil
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI%2FML+Student;Machine+Learning+Enthusiast;Web+Developer;Cybersecurity+Learner)
 
 🎓 3rd Year CSE (AI/ML) Student
 💻 Passionate about Machine Learning & Web Development
