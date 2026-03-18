@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
 ![Web Dev](https://img.shields.io/badge/Web%20Development-Frontend-orange)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilsangwan111&show_icons=true&theme=tokyonight)
+
 # 👋 Hi, I'm Sahil
 
 🎓 3rd Year CSE (AI/ML) Student
@@ -43,6 +43,7 @@
 * Email: (sahilsangwan89305@gmail.com)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilsangwan111&show_icons=true&theme=tokyonight)
 
 ⭐ Always learning & building new things!
 
